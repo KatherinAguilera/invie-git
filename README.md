@@ -1,3 +1,4 @@
-# invie-git
-Proyecto para el curso de git y github Platzi 2018
-Katherine Aguilera
+# invie
+Las guitarras más locas
+
+http://leonidasesteban.github.io/invie-responsive/
